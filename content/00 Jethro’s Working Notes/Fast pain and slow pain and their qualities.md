@@ -1,4 +1,5 @@
 ---
+title: "Fast pain and slow pain and their qualities"
 dg-publish: true
 alias:[Fast pain and slow pain]
 ---
