@@ -1,0 +1,41 @@
+# Marks’ Biochemistry: Reverse cholesterol transport
+
+Created time: April 5, 2022 11:48 AM
+
+****Synthesis of HDL****
+
+HDL particles can be created by several mechanisms. The first is synthesis of nascent HDL by the liver and intestine as a relatively small molecule whose shell, like that of other lipoproteins, contains phospholipids, free cholesterol, and a variety of apolipoproteins, predominant among which are apoA1, apoAII, apoCI, and apoCII (see [Table 32.3](https://meded-lwwhealthlibrary-com.eproxy.lib.hku.hk/content.aspx?sectionid=249267959&bookid=2170#lieberman5-lieberman-5-lieberman-ch032-tbl003-inline)). Very low levels of triacylglycerols or cholesterol esters are found in the hollow core of this early, or nascent, version of HDL.
+
+A second method for HDL generation is the budding of apolipoproteins from chylomicrons and VLDL particles as they are digested by LPL. The apolipoproteins (particularly apoAI) and shells can then accumulate more lipid, as described below.
+
+A third method for HDL generation is free apoAI, which may be shed from other circulating lipoproteins. The apoAI acquires cholesterol and phospholipids from other lipoproteins and cell membranes, forming a nascent-like HDL particle within the circulation.
+
+**Maturation of Nascent HDL**
+
+In the process of maturation, the nascent HDL particles accumulate phospholipids and cholesterol from cells lining the blood vessels. As the central hollow core of nascent HDL progressively fills with cholesterol esters, HDL takes on a more globular shape to eventually form the mature HDL particle. The transfer of lipids to nascent HDL does not require enzymatic activity.
+
+****Reverse Cholesterol Transport****
+
+A major benefit of HDL particles derives from their ability to remove cholesterol from cholesterol-laden cells and to return the cholesterol to the liver, a process known as *reverse cholesterol transport*. This is particularly beneficial in vascular tissue; by reducing cellular cholesterol levels in the subintimal space, the likelihood that foam cells (lipid-laden macrophages that engulf oxidized LDL cholesterol and represent an early stage in the development of atherosclerotic plaque) will form within the blood vessel wall is reduced.
+
+Reverse cholesterol transport requires a directional movement of cholesterol from the cell to the lipoprotein particle. Cells contain the protein ABCA1 (ATP-binding cassette protein 1) that uses ATP hydrolysis to move cholesterol from the inner leaflet of the membrane to the outer leaflet (similar to the efflux of phytosterols by ABCG5 and ABCG8; see Section I of this chapter). Once the cholesterol has reached the outer membrane leaflet, the HDL particle can accept it, but if the cholesterol is not modified within the HDL particle, the cholesterol can leave the particle by the same route that it entered. To trap the cholesterol within the HDL core, the HDL particle acquires the enzyme LCAT from the circulation (LCAT is synthesized and secreted by the liver). LCAT catalyzes the transfer of a fatty acid from the 2-position of lecithin (phosphatidylcholine) in the phospholipid shell of the particle to the 3-hydroxyl group of cholesterol, forming a cholesterol ester (Fig. 32.14). The cholesterol ester migrates to the core of the HDL particle and is no longer free to return to the cell.
+
+**FIGURE 32.14**
+
+![https://hl.silverchair-cdn.com/wk/hl/content_public/book/2170/m_lieberman9781496324818-ch032_f014_1602178837.39724.jpeg?Expires=1652149693&Signature=sBTZKG1gngp7AQBHIuKSd6l7tl1~5WWF9AB7QXidp6J8H9M~QiraxGP4Zl4uThJm9TvAs2OmgKv-6aTCNDWYaYISOrEatoAlwfeSOttqG0S3Su0AOtlLJ8bOwbJ73z032lB7Q-podtGriDeckAdrHAv4CAFT1iEGMmPGWPMmPCQQ93uBE5i1SwYr27K2asqH2EJQMSJjpPK0hrB3p4hKufWBbh~qZvwg18LVh-MJgtF-AhiFMw6h5F56zIzcQyGpX6rHt2dfVhSeHs6-GsiFiHunOyKkmZ2UWaJWF8vqOpKIX75M-WFMrPv6yJ8Wa-PZy~LrJu7sBiIc9krQN33wNQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA](https://hl.silverchair-cdn.com/wk/hl/content_public/book/2170/m_lieberman9781496324818-ch032_f014_1602178837.39724.jpeg?Expires=1652149693&Signature=sBTZKG1gngp7AQBHIuKSd6l7tl1~5WWF9AB7QXidp6J8H9M~QiraxGP4Zl4uThJm9TvAs2OmgKv-6aTCNDWYaYISOrEatoAlwfeSOttqG0S3Su0AOtlLJ8bOwbJ73z032lB7Q-podtGriDeckAdrHAv4CAFT1iEGMmPGWPMmPCQQ93uBE5i1SwYr27K2asqH2EJQMSJjpPK0hrB3p4hKufWBbh~qZvwg18LVh-MJgtF-AhiFMw6h5F56zIzcQyGpX6rHt2dfVhSeHs6-GsiFiHunOyKkmZ2UWaJWF8vqOpKIX75M-WFMrPv6yJ8Wa-PZy~LrJu7sBiIc9krQN33wNQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+[View Original](https://hl.silverchair-cdn.com/wk/hl/content_public/book/2170/lieberman9781496324818-ch032_f014_1602178837.39724.jpeg?Expires=1652149693&Signature=gjGDRIxSuNYRm4fhoKb02autC4Gva2dobSG1kph39XWwBTOlbI72Gm-cIC4bFRJnc3NfFd3-F3VKlgE8hxRPUnkgO6bc4LUf-eVtBM7SBpBnIGNvYYjX0wvYbFPebFEZKgzG7gREjTbcg8kKlykS6aUB68HExu0yggDLdy6c4VrgiLZSX2Gv1s3SbaipYC0cVwIMXaNLTENa842lvTedXUmw6y82JXCeL14X5sOb5maWL~Va8aqBGH0apd9JbMNnXkxZSfBLzj~OzdAFmgZpBY385VDB96VifkEuFMNHC9aS59FHiS6KrC8OHScw0pXwiWZwZE3lIDcht26eaSrXLg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)[Download Slide (.ppt)](https://meded-lwwhealthlibrary-com.eproxy.lib.hku.hk/downloadimage.aspx?sec=249268067&image=https://hl.silverchair-cdn.com/wk/hl/content_public/book/2170/lieberman9781496324818-ch032_f014_1602178837.39724.jpeg?Expires=1652149693&Signature=gjGDRIxSuNYRm4fhoKb02autC4Gva2dobSG1kph39XWwBTOlbI72Gm-cIC4bFRJnc3NfFd3-F3VKlgE8hxRPUnkgO6bc4LUf-eVtBM7SBpBnIGNvYYjX0wvYbFPebFEZKgzG7gREjTbcg8kKlykS6aUB68HExu0yggDLdy6c4VrgiLZSX2Gv1s3SbaipYC0cVwIMXaNLTENa842lvTedXUmw6y82JXCeL14X5sOb5maWL~Va8aqBGH0apd9JbMNnXkxZSfBLzj~OzdAFmgZpBY385VDB96VifkEuFMNHC9aS59FHiS6KrC8OHScw0pXwiWZwZE3lIDcht26eaSrXLg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&ChapterSecID=249267959&BookID=2170)
+
+**The reaction catalyzed by lecithin–cholesterol acyltransferase (LCAT).**
+
+*R1*, saturated fatty acid; *R2*, unsaturated fatty acid.
+
+Two genetically determined disorders, familial HDL deficiency and Tangier disease, result from mutations in the ATP-binding cassette 1 (ABCA1) protein. Cholesterol-depleted HDL cannot transport free cholesterol from cells that lack the ability to express this protein. As a consequence, HDL is rapidly degraded. These disorders have established a role for the ABCA1 protein in the regulation of HDL levels in the blood. In both disorders, early-onset coronary artery disease occurs, caused by the low levels of HDL.
+
+Elevated levels of lipoprotein-associated cholesterol in the blood, particularly that associated with LDL and also the more triacylglycerol-rich lipoproteins, are associated with the formation of cholesterol-rich atheromatous plaque in the vessel wall, leading eventually to diffuse *atherosclerotic vascular disease* that can result in acute cardiovascular events such as myocardial infarction, stroke, or symptomatic peripheral vascular insufficiency. High levels of HDL in the blood, therefore, are believed to be vasculoprotective because these high levels increase the rate of reverse cholesterol transport “away” from the blood vessels and “toward” the liver (“out of harm’s way”).
+
+Because **Anne J.** continued to experience intermittent chest pain in spite of good control of her hypertension and a 20-lb weight loss, her physician decided that in addition to seeing a cardiologist to further evaluate the chest pain, a second drug needed to be added to her regimen to further lower her blood LDL cholesterol level. Consequently, treatment with ezetimibe, a drug that blocks cholesterol absorption from the intestine, was added to complement the atorvastatin Anne was already taking.
+
+**Fate of HDL Cholesterol**
+
+Mature HDL particles can bind to specific receptors on hepatocytes (such as the apoE receptor), but the primary means of clearance of HDL from the blood is through its uptake by the scavenger receptor SR-B1. This receptor is present on many cell types. It does not carry out endocytosis per se, but once the HDL particle is bound to the receptor, its cholesterol and cholesterol esters are transferred into the cells. When depleted of cholesterol and its esters, the HDL particle dissociates from the SR-B1 receptor and reenters the circulation. SR-B1 receptors can be upregulated in certain cell types that require cholesterol for biosynthetic purposes, such as the cells that produce the steroid hormones. The SR-B1 receptors are not downregulated when cholesterol levels are high.

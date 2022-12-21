@@ -1,0 +1,23 @@
+# Junqueira’s Histology: Proximal convoluted tubule (PCT)
+
+Created time: March 9, 2022 4:44 PM
+
+**Proximal Convoluted Tubule**
+
+At the tubular pole of the renal corpuscle, the squamous epithelium of the capsule's parietal layer is continuous with the cuboidal epithelium of the **proximal convoluted tubule** (Figures 19–8 and 19–9). This very tortuous tubule is longer than the distal convoluted tubule and is therefore more frequently seen in sections of renal cortex. Cells of the proximal tubule reabsorb 60–65% of the water filtered in the renal corpuscle, along with almost all of the nutrients, ions, vitamins, and small plasma proteins. The water and its solutes are transferred directly across the tubular wall and immediately taken up by the **peritubular capillaries**.
+
+![[Untitled 1]]
+
+**Renal cortex: Proximal and distal convoluted tubules.**
+
+**(a):** The micrograph shows the continuity at a renal corpuscle's tubular pole (TP) between the simple cuboidal epithelium of a proximal convoluted tubule (P) and the simple squamous epithelium of the capsule's parietal layer. The urinary space (U) between the parietal layer and the glomerulus (G) drains into the lumen of the proximal tubule. The lumen of the proximal tubules appear filled, due to the long microvilli of the brush border and aggregates of small plasma proteins bound to this structure. By contrast, the lumens of distal convoluted tubules (D) appear empty, lacking a brush border and protein.
+
+**(b):** In another section the abundant peritubular capillaries and draining venules surrounding the proximal and distal convoluted tubules are indicated (arrows). Fibroblastic interstitial cells of the cortex are the source of erythropoietin, the growth factor secreted in response to a prolonged decrease in the local oxygen concentration. Both X400. H&E.
+
+The cells of the proximal tubules have acidophilic cytoplasm (Figures 19–8 and 19–9) because of the presence of numerous mitochondria. The cell apex has abundant long microvilli which form a prominent **brush border** for reabsorption (Figures 19–8, 19–9, and 19–10). Because the cells are large, each transverse section of a proximal tubule typically contains only three to five rounded nuclei. In routine histologic preparations, the brush border may be disorganized and give the lumens a fuzz-filled appearance. Capillaries and other microvascular components are abundant in the sparse surrounding connective tissue (Figure 19–8).
+
+![[Untitled 1]]
+
+Ultrastructurally the apical cytoplasm of these cells has numerous pits and vesicles near the bases of the microvilli, indicating active pinocytosis (Figure 19–10). The **pinocytotic vesicles** contain small plasma proteins (with a molecular mass less than 70 kDa) that passed through the glomerular filter. The vesicles fuse with lysosomes for proteolysis and amino acids are released to the circulation. The cells also have many long basal **membrane invaginations** and lateral interdigitations with neighboring cells (Figure 19–10). The Na+/K+-ATPase (sodium pump) responsible for actively transporting sodium ions out of the cells is localized in these basolateral membranes. Long mitochondria are concentrated along the basal invaginations (Figure 19–9), characteristically for cells engaged in active ion transport. Because of the extensive interdigitations of the lateral membranes, discrete limits between cells of the proximal tubule are difficult to see in the light microscope. The proximal convoluted tubules actively reabsorb all the glucose and amino acids in the filtrate and about 85% of the sodium chloride and other ions. This absorption involves the membrane sodium pumps. Water diffuses passively, following the osmotic gradient. When the amount of glucose in the filtrate exceeds the absorbing capacity of the proximal tubule, as in diabetes, urine becomes more abundant and contains glucose.
+
+In addition to these activities, cells of the proximal convoluted tubules can also move substances from the peritubular capillaries into the tubular lumen, an active process referred to as tubular secretion. Organic anions such as choline and creatinine and many foreign compounds such as penicillin are excreted in this manner, which allows kidneys to dispose of such substances at a higher rate than by glomerular filtration alone. The cells of the proximal tubule are also involved in vitamin D hydroxylation.

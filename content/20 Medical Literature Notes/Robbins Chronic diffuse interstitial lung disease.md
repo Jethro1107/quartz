@@ -1,0 +1,9 @@
+# Robbins: Chronic diffuse interstitial lung disease
+
+Created time: April 27, 2022 11:55 AM
+
+## Chronic Diffuse Interstitial (Restrictive) Diseases
+
+Restrictive lung disorders fall into two general categories: (1) *chronic interstitial and infiltrative diseases,* such as pneumoconioses and interstitial fibrosis of unknown etiology, and (2) *chest wall disorders* (e.g., neuromuscular diseases such as poliomyelitis, severe obesity, pleural diseases, and kyphoscoliosis), which are not discussed here.
+
+**Chronic interstitial pulmonary diseases are a heterogeneous group of disorders characterized predominantly by inflammation and fibrosis of the lung interstitium associated with pulmonary function studies indicative of restrictive lung disease.** Diffuse restrictive diseases are categorized based on histology and clinical features ( [Table 15.5](https://www-clinicalkey-com.eproxy.lib.hku.hk/t0030) ). Many of the entities are of unknown cause and pathogenesis, and some have an intra-alveolar as well as an interstitial component. Patients have dyspnea, tachypnea, end-inspiratory crackles, and eventual cyanosis, without wheezing or other evidence of airway obstruction. The classic functional abnormalities are reductions in diffusion capacity, lung volume, and lung compliance. Chest radiographs show bilateral lesions that take the form of small nodules, irregular lines, or *ground-glass shadows,* all corresponding to areas of interstitial fibrosis. Although the entities can often be distinguished in their early stages, advanced forms are hard to differentiate because all result in diffuse scarring of the lung, often referred to as *end-stage lung* or *honeycomb lung* . Eventually, secondary pulmonary hypertension and right-sided heart failure (cor pulmonale) may result.

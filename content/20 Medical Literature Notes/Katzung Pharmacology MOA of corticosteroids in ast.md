@@ -1,0 +1,9 @@
+# Katzung Pharmacology: MOA of corticosteroids in asthma therapy
+
+Created time: March 30, 2022 10:23 AM
+
+****CORTICOSTEROIDS****
+
+**Mechanism of Action**
+
+Corticosteroids (specifically, glucocorticoids) have long been used in the treatment of asthma and are presumed to act by their broad anti-inflammatory efficacy, mediated in part by inhibition of production of inflammatory cytokines (see [Chapter 39](https://accessmedicine-mhmedical-com.eproxy.lib.hku.hk/content.aspx?legacysectionid=Katz15_ch39)). They do not relax airway smooth muscle directly but reduce bronchial hyperreactivity and reduce the frequency of asthma exacerbations if taken regularly. Their effect on airway obstruction is due in part to their contraction of engorged vessels in the bronchial mucosa and their potentiation of the effects of β-receptor agonists, but their most important action is inhibition of the infiltration of asthmatic airways by lymphocytes, eosinophils, and mast cells. The remarkable benefits of systemic glucocorticoid treatment for patients with severe asthma have been noted since the 1950s. So too have been its numerous and severe toxicities, especially when given repeatedly, as is necessary for a chronic disease like asthma. The development of [beclomethasone](https://accessmedicine-mhmedical-com.eproxy.lib.hku.hk/drugs.aspx?GbosID=130854) in the 1970s as a topically active glucocorticoid preparation that could be taken by inhalation enabled delivery of high doses of a glucocorticoid to the target tissue—the bronchial mucosa—with little absorption into the systemic circulation. The development of ICS has transformed the treatment of all but mild, intermittent asthma, which can be treated with “as-needed” use of [albuterol](https://accessmedicine-mhmedical-com.eproxy.lib.hku.hk/drugs.aspx?GbosID=426437) alone.

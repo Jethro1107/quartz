@@ -1,0 +1,104 @@
+# Guyton and Hall: Circulatory Dynamics in Cardiac Failure
+
+Created time: April 13, 2022 12:08 PM
+Related to MBBS I (Property 1): [[CPR70 Shock, Heart failure]]
+
+# Circulatory Dynamics in Cardiac Failure
+
+## Acute Effects of Moderate Cardiac Failure
+
+If a heart suddenly becomes severely damaged, such as by myocardial infarction, the pumping ability of the heart is immediately depressed. As a result, two main effects occur: (1) reduced cardiac output; and (2) damming of blood in the veins, resulting in increased venous pressure.
+
+The progressive changes in heart pumping effectiveness at different times after an acute myocardial infarction are shown graphically in [Figure 22-1](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0010) . The top curve of this figure shows a normal cardiac output curve. Point A on this curve is the normal operating point, showing a normal cardiac output under resting conditions of 5 L/min and a right atrial pressure of 0 mm Hg.
+
+![[Untitled 1]]
+
+Figure 22-1Progressive changes in the cardiac output curve after acute myocardial infarction. Both the cardiac output and right atrial pressure change progressively from point A to point D (illustrated by the *black line* ) over a period of seconds, minutes, days, and weeks.
+
+Immediately after the heart becomes damaged, the cardiac output curve becomes greatly depressed, falling to the lowest curve at the bottom of the graph. Within a few seconds, a new circulatory state is established at point B, illustrating that the cardiac output has fallen to 2 L/min, about two-fifths normal, whereas the right atrial pressure has risen to +4 mm Hg because venous blood returning to the heart from the body is dammed up in the right atrium. This low cardiac output is still sufficient to sustain life for perhaps a few hours, but it is likely to be associated with fainting. Fortunately, this acute stage usually lasts for only a few seconds because sympathetic nervous reflexes occur almost immediately and compensate, to a great extent, for the damaged heart, as follows.
+
+### Compensation for Acute Cardiac Failure by Sympathetic Nervous Reflexes
+
+When the cardiac output falls precariously low, many of the circulatory reflexes discussed in [Chapter 18](https://www-clinicalkey-com.eproxy.lib.hku.hk/#!/content/3-s2.0-B9780323597128000187) are rapidly activated. The best known of these is the *baroreceptor reflex* , which is activated by diminished arterial pressure. The *chemoreceptor reflex* , the *central nervous system ischemic response* , and even *reflexes that originate in the damaged heart* also likely contribute to activation of the sympathetic nervous system. The sympathetics therefore become strongly stimulated within a few seconds, and the parasympathetic nervous signals to the heart become inhibited at the same time.
+
+Strong sympathetic stimulation has major effects on the heart and peripheral vasculature. If all the ventricular musculature is diffusely damaged but is still functional, sympathetic stimulation strengthens this damaged musculature. If part of the muscle is nonfunctional, and part of it is still normal, the normal muscle is strongly stimulated by sympathetic stimulation, in this way partially compensating for the nonfunctional muscle. Thus, *the heart becomes a stronger pump* as a result of sympathetic stimulation. This effect is illustrated in [Figure 22-1](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0010) , which shows about a twofold elevation of the very low cardiac output curve after sympathetic compensation.
+
+Sympathetic stimulation also increases venous return because it increases the tone of most of the blood vessels of the circulation, especially the veins, *raising the mean systemic filling pressure* to 12 to 14 mm Hg, almost 100% above normal. As discussed in [Chapter 20](https://www-clinicalkey-com.eproxy.lib.hku.hk/#!/content/3-s2.0-B9780323597128000205) , this increased filling pressure greatly increases the tendency for blood to flow from the veins back into the heart. Therefore, the damaged heart becomes primed with more inflowing blood than usual, and the right atrial pressure rises still further, which helps the heart pump still larger quantities of blood. Thus, in [Figure 22-1](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0010) , the new circulatory state is depicted by point C, showing a cardiac output of 4.2 L/min and a right atrial pressure of 5 mm Hg.
+
+The sympathetic reflexes become maximally developed in about 30 seconds. Therefore, a person who has a sudden, moderate heart attack might experience nothing more than cardiac pain and a few seconds of fainting. Shortly thereafter, with the aid of the sympathetic reflex compensations, the cardiac output may return to a level adequate to sustain the person if he or she remains quiet, although the pain might persist.
+
+### Chronic Stage of Failure—Fluid Retention and Compensated Cardiac Output
+
+After the first few minutes of an acute heart attack, a prolonged semichronic state begins, characterized mainly by two events: (1) retention of fluid by the kidneys; and (2) varying degrees of recovery of the heart over a period of weeks to months, as illustrated by the light green curve in [Figure 22-1](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0010) . This topic was also discussed in [Chapter 21](https://www-clinicalkey-com.eproxy.lib.hku.hk/#!/content/3-s2.0-B9780323597128000217) .
+
+### Renal Retention of Fluid and Increase in Blood Volume Occur for Hours to Days
+
+A low cardiac output has a profound effect on renal function, sometimes causing anuria when the cardiac output falls to 50% to 60% of normal. In general, the urine output remains below normal as long as the cardiac output and arterial pressure remain significantly less than normal; urine output usually does not return all the way to normal after an acute heart attack until the cardiac output and arterial pressure rise almost to normal levels.
+
+### Moderate Fluid Retention in Cardiac Failure Can Be Beneficial
+
+Many cardiologists have considered fluid retention always to have a detrimental effect in cardiac failure. However, a moderate increase in body fluid and blood volume is an important factor in helping to compensate for the diminished pumping ability of the heart by increasing the venous return. The increased blood volume increases venous return in two ways. First, it increases the mean systemic filling pressure, which *increases the pressure gradient for causing venous flow of blood toward the heart* . Second, it distends the veins, which *reduces the venous resistance* and allows even more ease of flow of blood to the heart.
+
+If the heart is not damaged too much, this increased venous return can almost fully compensate for the heart’s diminished pumping ability—enough so that even when the heart’s pumping ability is reduced to as low as 40% to 50% of normal, the increased venous return can often cause nearly normal cardiac output as long as the person remains in a quiet resting state.
+
+When the heart’s pumping capability is reduced further, blood flow to the kidneys finally becomes too low for the kidneys to excrete enough salt and water to equal salt and water intake. Therefore, fluid retention begins and continues indefinitely unless major therapeutic procedures are used to prevent this outcome. Furthermore, because the heart is already pumping at its maximum capacity *, this excess fluid no longer has a beneficial effect* on the circulation. Instead, the fluid retention increases the workload on the already damaged heart, and severe edema develops throughout the body, which can be very detrimental and can lead to death.
+
+### Detrimental Effects of Excess Fluid Retention in Severe Cardiac Failure
+
+In contrast to the beneficial effects of moderate fluid retention in cardiac failure, in severe cardiac failure, extreme excesses of fluid can have serious physiologic consequences. These include the following: (1) increasing the workload on the damaged heart; (2) overstretching of the heart, which further weakens the heart; (3) filtration of fluid into the lungs, causing pulmonary edema and consequent deoxygenation of the blood; and (4) development of extensive edema in most parts of the body. These detrimental effects of excessive fluid are discussed in later sections of this chapter.
+
+### Recovery of the Heart After Myocardial Infarction
+
+After a heart becomes suddenly damaged as a result of myocardial infarction, the natural reparative processes of the body begin to help restore normal cardiac function. For example, a new collateral blood supply begins to penetrate the peripheral portions of the infarcted area of the heart, often causing some of the heart muscle in the fringe areas to become functional again. Also, the undamaged portion of the heart musculature hypertrophies, offsetting some of the cardiac damage.
+
+The degree of recovery, which depends on the type and severity of cardiac damage, varies from no recovery to almost complete recovery. After an acute myocardial infarction, the heart ordinarily recovers rapidly during the first few days and weeks and achieves most of its final state of recovery within 5 to 7 weeks, although mild degrees of additional recovery can continue for months.
+
+### Cardiac Output Curve After Partial Recovery
+
+[Figure 22-1](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0010) shows function of the partially recovered heart a week or so after an acute myocardial infarction. By this time, considerable fluid has been retained in the body, and the tendency for venous return has increased markedly as well; therefore, the right atrial pressure has risen even more. As a result, the state of the circulation is now changed from point C to point D, which shows a normal cardiac output of 5 L/min but right atrial pressure increased to 6 mm Hg.
+
+Because the cardiac output has returned to normal, renal output of fluid also returns to normal, and no further fluid retention occurs, except that *the retention of fluid that has already occurred continues to maintain moderate excesses of fluid* . Therefore, except for the high right atrial pressure represented by point D in this figure, the person now has essentially normal cardiovascular dynamics *as long as he or she remains at rest* .
+
+If the heart recovers to a significant extent, and if adequate fluid volume has been retained, the cardiac output increases toward normal and sympathetic stimulation gradually abates toward normal. As the heart recovers, the fast pulse rate, cold skin, and pallor resulting from sympathetic stimulation in the acute stage of cardiac failure gradually disappear.
+
+## Summary of Changes After Acute Cardiac Failure—Compensated Heart Failure
+
+To summarize the events discussed in the past few sections describing the dynamics of circulatory changes after an acute, moderate heart attack, we can divide the stages into the following: (1) the instantaneous effect of the cardiac damage; (2) compensation by the sympathetic nervous system, which occurs mainly within the first 30 to 60 seconds; and (3) chronic compensations resulting from partial heart recovery and renal retention of fluid. All these changes are shown graphically by the black line in [Figure 22-1](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0010) . The progression of this line shows the normal state of the circulation (point A), the state a few seconds after the heart attack but before sympathetic reflexes have occurred (point B), the rise in cardiac output toward normal caused by sympathetic stimulation (point C), and final return of the cardiac output to almost normal after several days to several weeks of partial cardiac recovery and fluid retention (point D). This final state is called *compensated heart failure* .
+
+### Compensated Heart Failure
+
+Note especially in [Figure 22-1](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0010) that the maximum pumping ability of the partly recovered heart, as depicted by the plateau level of the light green curve, is still depressed to less than half-normal. This demonstrates that an increase in right atrial pressure can maintain the cardiac output at a normal level, despite continued weakness of the heart. Thus, many people, especially older adults, have normal resting cardiac outputs but mildly to moderately elevated right atrial pressures because of various degrees of compensated heart failure. They may not know that they have cardiac damage because the damage often has occurred a little at a time, and the compensation has occurred concurrently with the progressive stages of damage.
+
+When a person is in a state of compensated heart failure, any attempt to perform heavy exercise usually causes immediate return of the symptoms of acute heart failure because the heart is not able to increase its pumping capacity to the levels required for the exercise. Therefore, it is said that the *cardiac reserve* is reduced in compensated heart failure. This concept of cardiac reserve is discussed later in the chapter.
+
+## Dynamics of Severe Cardiac Failure—Decompensated Heart Failure
+
+If the heart becomes severely damaged, no amount of compensation by sympathetic nervous reflexes or fluid retention can make the excessively weakened heart pump a normal cardiac output. As a consequence, the cardiac output cannot rise high enough to make the kidneys excrete normal quantities of fluid. Therefore, fluid continues to be retained, the person develops more and more edema, and this state of events eventually leads to death. This condition is called *decompensated heart failure* . Thus, a major cause of decompensated heart failure is failure of the heart to pump sufficient blood to make the kidneys excrete the necessary amounts of fluid every day.
+
+### Graphic Analysis of Decompensated Heart Failure
+
+[Figure 22-2](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0015) shows greatly depressed cardiac output at different times (points A to F) after the heart has become severely weakened. Point A on this curve represents the approximate state of the circulation before any compensation has occurred, and point B represents the state a few minutes later, after sympathetic stimulation has compensated as much as it can but before fluid retention has begun. At this time, the cardiac output has risen to 4 L/min and the right atrial pressure has risen to 5 mm Hg. The person appears to be in reasonably good condition, but this state will not remain stable because the cardiac output has not risen high enough to cause adequate kidney excretion of fluid; therefore, fluid retention continues and can eventually be the cause of death. These events can be explained quantitatively in the following way.
+
+![[Untitled 1]]
+
+Open full size imageFigure 22-2Greatly depressed cardiac output that indicates decompensated heart disease. Progressive fluid retention raises the right atrial pressure over a period of days, and the cardiac output progresses from point A to point F until death occurs.
+
+Note the straight line in [Figure 22-2](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0015) , at a cardiac output level of 5 L/min. This level is approximately the critical cardiac output level that is required in the average adult person to make the kidneys reestablish normal fluid balance—that is, for the output of salt and water to be as high as the intake of these substances. At cardiac outputs below this level, the fluid-retaining mechanisms discussed in the earlier section remain in play, and the body fluid volume increases progressively. Because of this progressive increase in fluid volume, the mean systemic filling pressure of the circulation continues to rise, which forces progressively increasing quantities of blood from the person’s peripheral veins into the right atrium, thus increasing the right atrial pressure. After 1 day or so, the state of the circulation changes in [Figure 22-2](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0015) from point B to point C, with the right atrial pressure rising to 7 mm Hg and the cardiac output rising to 4.2 L/min. Note again that the cardiac output is still not high enough to cause normal renal output of fluid; therefore, fluid continues to be retained. After another day or so, the right atrial pressure rises to 9 mm Hg, and the circulatory state becomes that depicted by point D. Still, the cardiac output is not enough to establish normal fluid balance.
+
+After another few days of fluid retention, the right atrial pressure has risen further but, by now, cardiac function is beginning to decline toward a lower level. This decline is caused by overstretch of the heart, edema of the heart muscle, and other factors that diminish the heart’s pumping performance. It is now clear that further retention of fluid will be more detrimental than beneficial to the circulation. Yet, the cardiac output still is not high enough to bring about normal renal function, so fluid retention not only continues but accelerates because of the falling cardiac output (and the falling arterial pressure that also occurs). Consequently, within a few days, the state of the circulation has reached point F on the curve, with the cardiac output now less than 2.5 L/min and the right atrial pressure 16 mm Hg. This state has approached or reached incompatibility with life, and the patient will die unless this chain of events can be reversed. This state of heart failure in which the failure continues to worsen is called *decompensated heart failure* .
+
+Thus, one can see from this analysis that failure of the cardiac output (and arterial pressure) to rise to the critical level required for normal renal function results in the following: (1) progressive retention of more and more fluid; (2) progressive elevation of the mean systemic filling pressure; and (3) progressive elevation of the right atrial pressure until, finally, the heart is so overstretched or so edematous that it cannot pump even moderate quantities of blood and, therefore, fails completely. Clinically, one detects this serious condition of decompensation principally by the progressing edema, especially edema of the lungs, which leads to bubbling *rales* (a crackling sound) in the lungs and to *dyspnea* (air hunger). Lack of appropriate therapy at this stage rapidly leads to death.
+
+### Treatment of Decompensation
+
+The decompensation process can often be stopped by the following: (1) *strengthening the heart* in any one of several ways, especially by *administering a cardiotonic drug* , such as *digitalis* , so that the heart becomes strong enough to pump adequate quantities of blood required to make the kidneys function normally again; or (2) *administering diuretic drugs to increase kidney excretion* while at the same time reducing water and salt intake, which results in a balance between fluid intake and output, despite low cardiac output.
+
+Both methods stop the decompensation process by re-establishing normal fluid balance so that at least as much fluid leaves the body as enters it.
+
+### Mechanism of Action of Cardiotonic Drugs
+
+Cardiotonic drugs, such as digitalis, when administered to a person with a healthy heart, have little effect on increasing the contractile strength of the cardiac muscle. However, when administered to someone with a chronically failing heart, the same drugs can sometimes increase the strength of the failing myocardium by as much as 50% to 100%. Therefore, they are one of the mainstays of therapy in persons with chronic heart failure.
+
+Digitalis and other cardiotonic glycosides are believed to strengthen heart contractions by increasing the quantity of calcium ions in muscle fibers. This effect is likely due to inhibition of sodium-potassium adenosine triphosphatase in cardiac cell membranes. Inhibition of the sodium-potassium pump increases the intracellular sodium concentration and slows the sodium-calcium exchange pump, which extrudes calcium from the cell in exchange for sodium. Because the sodium-calcium exchange pump relies on a high sodium gradient across the cell membrane, accumulation of sodium inside the cell reduces its activity.
+
+In the failing heart muscle, the sarcoplasmic reticulum fails to accumulate normal quantities of calcium and, therefore, cannot release enough calcium ions into the free fluid compartment of the muscle fibers to cause full contraction of the muscle. The effect of digitalis to depress the sodium-calcium exchange pump and raise calcium ion concentration in cardiac muscle provides the extra calcium needed to increase the muscle contractile force. Therefore, it is usually beneficial to depress the calcium pumping mechanism by a moderate amount using digitalis, allowing the muscle fiber intracellular calcium level to rise slightly.

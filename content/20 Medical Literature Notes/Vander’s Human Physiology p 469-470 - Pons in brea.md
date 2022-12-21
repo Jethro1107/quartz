@@ -1,0 +1,5 @@
+# Vander’s Human Physiology p.469-470 - Pons in breathing control
+
+Created time: April 10, 2022 2:09 PM
+
+- The medullary inspiratory neurons receive a rich synaptic input from neurons in various areas of the pons, the part of the brainstem just above the medulla. This input fine-tunes the output of the medullary inspiratory neurons and may help terminate inspiration by inhibiting them. It is likely that an area of the lower pons called the **apneustic center** is the major source of this output, whereas an area of the upper pons called the **pneumotaxic center** modulates the activity of the apneustic center. The pneumotaxic center, also known as the **pontine respiratory group,** helps to smooth the transition between inspiration and expiration. The respiratory nerves in the medulla and pons also receive synaptic input from higher centers of the brain such that the pattern of respiration is controlled voluntarily during speaking, diving, and even with emotions and pain.

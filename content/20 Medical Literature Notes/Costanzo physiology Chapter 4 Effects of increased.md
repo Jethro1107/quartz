@@ -1,0 +1,22 @@
+# Costanzo physiology Chapter 4: Effects of increased total peripheral resistance on venous return and cardiac output
+
+Created time: March 2, 2022 5:35 PM
+
+## Effects of Changes in Total Peripheral Resistance
+
+Changes in TPR reflect changes in the degree of constriction of the arterioles. Such changes alter the extent to which blood is “held” on the arterial side of the circulation (i.e., in the stressed volume). Thus changes in TPR alter both arterial blood pressure and venous return to the heart. For example, an increase in TPR, by restricting the flow of blood out of the arteries, produces an increase in arterial blood pressure and, concomitantly, a decrease in venous return.
+
+The effects of changes in TPR on the cardiac and vascular function curves are therefore more complicated than those produced by changes in contractility or blood volume. Changes in TPR alter *both* curves: The cardiac function curve changes because of a change in afterload (arterial blood pressure), and the vascular function curve changes because of a change in venous return ( [Fig. 4.30](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0155) ).
+
+- The effects of an **increase in TPR** (i.e., constriction of the arterioles) are shown in [Figure 4.30A](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0155) . (1) Increases in TPR cause an increase in arterial pressure by “holding” blood in the arteries. This increase in arterial pressure produces an increase in afterload on the heart, which decreases cardiac output. The cardiac function curve shifts downward as a result of the increased afterload. (2) The increase in TPR produces a counterclockwise rotation of the vascular function curve. This rotation means that less blood returns to the heart for a given right atrial pressure—venous return is decreased. (3) The combination of these two changes is shown in [Figure 4.30A](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0155) . The curves intersect at a new steady state point at which both cardiac output and venous return are decreased.
+    
+    In the figure, right atrial pressure is shown as unchanged. Actually, the final effect of increased TPR on right atrial pressure is not easily predictable because TPR has different directional effects via the cardiac and vascular function curves. An increase in TPR decreases cardiac output, which *increases* right atrial pressure (less blood is pumped out of the heart). And, an increase in TPR decreases venous return, which *decreases* right atrial pressure (less flow back to the heart). Depending on the relative magnitude of the effects on the cardiac and vascular function curves, right atrial pressure can be slightly increased, slightly decreased, or unchanged. The figure shows it as unchanged—the compromise position.
+    
+- The effects of a **decrease in TPR** (i.e., dilation of the arterioles) are shown in [Figure 4.30B](https://www-clinicalkey-com.eproxy.lib.hku.hk/f0155) . (1) De­­creases in TPR cause a decrease in arterial pressure and a decrease in afterload, causing the cardiac function curve to shift upward. (2) The decrease in TPR produces a clockwise rotation of the vascular function curve, which means that more blood returns to the heart for a given right atrial pressure—venous return is increased. The curves intersect at a new steady state point at which both cardiac output and venous return are increased.
+    
+    In the figure, right atrial pressure is shown as unchanged. However, the effect of decreased TPR on right atrial pressure is not easily predicted because a change in TPR has different effects via the cardiac and vascular function curves. A decrease in TPR increases cardiac output, which *decreases* right atrial pressure (more blood is pumped out of the heart). And a decrease in TPR increases venous return, which *increases* right atrial pressure (increased flow back to the heart). Depending on the relative magnitude of the effects, right atrial pressure can be slightly increased, slightly decreased, or unchanged. In the figure, it is shown as the compromise, or unchanged.
+    
+
+Fig. 4.30Effects of increased total peripheral resistance *(TPR)* (A) and decreased TPR (B) on the cardiac and vascular function curves.The *solid lines* show the normal relationships, and the *dashed lines* show the changes. The *circle* intersecting the *dashed lines* shows the new steady state operating point.
+
+![[Untitled 1]]

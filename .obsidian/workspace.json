@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "adf8d1f5aa83ad24",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2e761c6c72e5cf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb24d2e14380bfa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/00 Jethro’s Working Notes/Cerebral hemisphere.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1763f70a9ce07be8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fd1b833c5f979bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27a13f7255915d4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fcbaf1be6f3dc4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "648ba7de03136a60",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "729657a496f9e198",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb5c56f60189d9d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d92f804df1dac9f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/00 Jethro’s Working Notes/Cerebral hemisphere.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db77da8e7f19e613",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/00 Jethro’s Working Notes/Cerebral hemisphere.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4ccce1ded2a1192",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0475580a8e143de9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/00 Jethro’s Working Notes/Cerebral hemisphere.md"
+              }
+            }
+          },
+          {
+            "id": "9706e9ecf45ec1f5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb24d2e14380bfa6",
+  "lastOpenFiles": [
+    "content/10 Journal/14 Dec 2022.md",
+    "content/10 Journal/19 Dec 2022.md",
+    "content/00 Jethro’s Working Notes/Cerebral hemisphere.md",
+    "content/10 Journal/1 Dec 2022.md",
+    "content/templates/Note template.md",
+    "content/private/private-note.md",
+    "content/_index.md"
+  ]
+}
