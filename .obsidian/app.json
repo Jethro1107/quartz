@@ -1,3 +1,6 @@
 {
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content",
+  "attachmentFolderPath": "content/notes/images"
 }
